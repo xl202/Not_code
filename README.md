@@ -10,3 +10,15 @@ This respository is used as a blog or diary. It will record some things I think 
 ### Learn
 
 It contains knowledge that it may be used in the future. 
+
+#### Algorithm
+
+1. Note from Introduction to Algorithm and CS430 notes.
+
+#### Javascript
+
+1. Note from w3schools.
+
+#### Others
+
+1. Paper read.
